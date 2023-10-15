@@ -2,4 +2,6 @@
     :global(body) {
       margin: 0;
     }
-  </style>
+</style>
+
+<h2>Eyoo downloads</h2>

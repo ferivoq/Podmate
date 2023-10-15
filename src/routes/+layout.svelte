@@ -1,13 +1,8 @@
 <script>
     import iconHome from "@iconify-icons/ic/outline-home";
     import iconHomeS from "@iconify-icons/ic/twotone-home";
-    import Icon from '@iconify/svelte';
     import videoLibraryOutlineRounded from '@iconify/icons-material-symbols/video-library-outline-rounded';
     import downloadIcon from '@iconify/icons-material-symbols/download';
-    import iconBook from "@iconify-icons/ic/outline-book";
-    import iconBookS from "@iconify-icons/ic/twotone-book";
-    import iconColorLens from "@iconify-icons/ic/outline-color-lens";
-    import iconColorLensS from "@iconify-icons/ic/twotone-color-lens";
     import iconCode from "@iconify-icons/ic/outline-code";
     import { base } from "$app/paths";
     import { page } from "$app/stores";
